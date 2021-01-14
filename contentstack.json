@@ -1,0 +1,19 @@
+[
+	{
+		"logoWhite": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8dc4dd93cd29ae05/5f1a2be13986577a2d5f6736/Contentstack-full-logo-white_800x133.png",
+		"logoBlack": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt954cedac0397edba/5f1a2be1d0350a5e2a2fde71/contentstack-footer-logo.png",
+		"favicon": "https://www.contentstack.com/favicon.ico",
+		"content": {
+			"image": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt66f4449fa1b24162/5f1a2be22ac1577a44a8bfd7/hero-carousel-3.jpg",
+			"heading": "Finally, A Modern Content Management System",
+			"subHeading": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences."
+		},
+		"footerLinks": {
+			"twitter": "https://twitter.com/contentstack",
+			"linkedin": "https://www.linkedin.com/company/contentstack",
+			"facebook": "https://www.facebook.com/contentstack",
+			"youtube": "https://www.youtube.com/contentstack",
+			"github": "https://github.com/contentstack"
+		}
+	}
+]
