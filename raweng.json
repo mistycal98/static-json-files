@@ -1,0 +1,16 @@
+[
+	{
+		"logo": "https://www.raweng.com/v3/assets/bltaacb6b0c9b693c2d/bltc1a71705f49d391d/5de663548d1dce6ad6bed8bf/header-logo.svg?format=pjpg&width=220",
+		"favicon": "https://www.raweng.com/icons/icon-144x144.png",
+		"content": {
+			"image": "https://www.raweng.com/v3/assets/bltaacb6b0c9b693c2d/blte86401d468e74845/5e3137f08f7e217daef66f54/Landing_Page_Image_Motion.jpg?format=pjpg&width=540",
+			"heading": "Fast Track Innovation From Vision to Reality",
+			"subHeading": "Raw Engineering’s experienced Strategic Consultants, Solutions Architects, Designers, and Developers turn Business Vision into Digital Reality."
+		},
+		"footerLinks": {
+			"twitter": "https://twitter.com/raweng",
+			"linkedin": "https://www.linkedin.com/company/raw-engineering",
+			"facebook": "https://www.facebook.com/rawengineering/"
+		}
+	}
+]
